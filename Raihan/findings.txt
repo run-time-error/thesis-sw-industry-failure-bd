@@ -9,4 +9,6 @@ dutta et al (2005) Amit and Shoemaker (1993) : capability : relative efficiency 
 firm with higher level of output may not be more capable than firms with low level of output.
 Rather firm with high capability converts input -> output more efficiently. generating greater output.
 This relative trasformative efficiency is essential to survive
-
+3 capability of sw firms RD, MK, OP
+keil and Carmel (95) -> sw firms are evaluated in terms of their revenues, profits, product reviews
+these are closely associated with MK, OP, RD
